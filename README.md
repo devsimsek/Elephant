@@ -1,12 +1,15 @@
-# A compiler for PHP
+# Elephant, The PHP Compiler
 
-[![CircleCI](https://circleci.com/gh/ircmaxell/php-compiler.svg?style=svg)](https://circleci.com/gh/ircmaxell/php-compiler)
+[![CircleCI](https://circleci.com/gh/devsimsek/Elephant.svg?style=svg)](https://circleci.com/gh/devsimsek/Elephant)
 
-Ok, so this used to be a dead project. It required calling out to all sorts of hackery to generate PHP extensions, or PHP itself.
+Main purpose of this fork is to be able to add the php 8 support as well as try to create another version of php-compiler.
 
-Now, thanks to [FFI landing in PHP 7.4](https://wiki.php.net/rfc/ffi), the potential for all sorts of crazy is HUGE. 
+Special thanks to @ircmaxell of his beautiful creation.
 
 So here we go :)
+
+!!!Note!!!
+I haven't started this project yet. My main purpose to make this compiler work with php 8.
 
 # Installation
 
